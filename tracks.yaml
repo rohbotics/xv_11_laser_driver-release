@@ -12,7 +12,7 @@ tracks:
     last_version: 0.1.2
     name: xv_11_laser_driver
     patches: null
-    release_inc: '1'
+    release_inc: '2'
     release_repo_url: git@github.com:rohbotics/xv_11_laser_driver-release.git
     release_tag: :{version}
     ros_distro: hydro
