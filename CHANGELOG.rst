@@ -2,6 +2,11 @@
 Changelog for package xv_11_laser_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.2 (2014-09-15)
+------------------
+* added install rule for include files
+* Contributors: Rohan Agrawal
+
 0.2.1 (2014-09-14)
 ------------------
 * merged Steve Dillo's include file
