@@ -1,3 +1,22 @@
+## xv_11_laser_driver (hydro) - 0.2.1-1
+
+The packages in the `xv_11_laser_driver` repository were released into the `hydro` distro by running `/usr/bin/bloom-release xv_11_laser_driver --track hydro --rosdistro hydro` on `Mon, 15 Sep 2014 01:03:11 -0000`
+
+The `xv_11_laser_driver` package was released.
+
+Version of package(s) in repository `xv_11_laser_driver`:
+- rosdistro version: `0.1.2-2`
+- old version: `0.2.1-0`
+- new version: `0.2.1-1`
+
+Versions of tools used:
+- bloom version: `0.5.5`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## xv_11_laser_driver (hydro) - 0.2.1-0
 
 The packages in the `xv_11_laser_driver` repository were released into the `hydro` distro by running `/usr/bin/bloom-release xv_11_laser_driver --track hydro --rosdistro hydro` on `Sun, 14 Sep 2014 22:32:26 -0000`
