@@ -1,3 +1,22 @@
+## xv_11_laser_driver (indigo) - 0.2.2-0
+
+The packages in the `xv_11_laser_driver` repository were released into the `indigo` distro by running `/usr/bin/bloom-release xv_11_laser_driver --track indigo --rosdistro indigo --new-track` on `Tue, 16 Sep 2014 00:25:32 -0000`
+
+The `xv_11_laser_driver` package was released.
+
+Version of package(s) in repository `xv_11_laser_driver`:
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.5`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## xv_11_laser_driver (hydro) - 0.2.2-0
 
 The packages in the `xv_11_laser_driver` repository were released into the `hydro` distro by running `/usr/bin/bloom-release xv_11_laser_driver --track hydro --rosdistro hydro` on `Mon, 15 Sep 2014 23:42:59 -0000`
