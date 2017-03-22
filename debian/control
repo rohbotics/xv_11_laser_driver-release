@@ -1,0 +1,13 @@
+Source: ros-kinetic-xv-11-laser-driver
+Section: misc
+Priority: extra
+Maintainer: rohan <send2arohan@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-roscpp, ros-kinetic-sensor-msgs
+Homepage: http://ros.org/wiki/xv_11_laser_driver
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-xv-11-laser-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev
+Description: Neato XV-11 Laser Driver.
+ This driver works with the laser when it is removed from the XV-11 Robot as opposed to reading scans from the Neato's USB port.
