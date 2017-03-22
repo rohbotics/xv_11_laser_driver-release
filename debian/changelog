@@ -1,0 +1,38 @@
+ros-lunar-xv-11-laser-driver (0.3.0-0yakkety) yakkety; urgency=high
+
+  * update default firmware_version to 2
+  * Contributors: Rohan Agrawal
+
+ -- rohan <send2arohan@gmail.com>  Wed, 22 Mar 2017 07:00:00 -0000
+
+ros-lunar-xv-11-laser-driver (0.2.2-0yakkety) yakkety; urgency=high
+
+  * added install rule for include files
+  * Contributors: Rohan Agrawal
+
+ -- rohan <send2arohan@gmail.com>  Mon, 15 Sep 2014 07:00:00 -0000
+
+ros-lunar-xv-11-laser-driver (0.2.1-0yakkety) yakkety; urgency=high
+
+  * merged Steve Dillo's include file
+  * Merge pull request #1 <https://github.com/rohbotics/xv_11_laser_driver/issues/1> from rohbotics/master
+    Merge master and hydro-devel
+  * Contributors: Rohan Agrawal
+
+ -- rohan <send2arohan@gmail.com>  Sun, 14 Sep 2014 07:00:00 -0000
+
+ros-lunar-xv-11-laser-driver (0.2.0-0yakkety) yakkety; urgency=high
+
+  * Pulled in Steve 'dillo Okay's RPMs topic
+  * Contributors: Rohan Agrawal
+
+ -- rohan <send2arohan@gmail.com>  Sat, 22 Feb 2014 08:00:00 -0000
+
+ros-lunar-xv-11-laser-driver (0.1.2-0yakkety) yakkety; urgency=high
+
+  * initial commit
+  * Contributors: Rohan Agrawal
+
+ -- rohan <send2arohan@gmail.com>  Sat, 23 Nov 2013 08:00:00 -0000
+
+
