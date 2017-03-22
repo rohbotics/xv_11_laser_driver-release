@@ -1,3 +1,26 @@
+## xv_11_laser_driver (kinetic) - 0.3.0-0
+
+The packages in the `xv_11_laser_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release xv_11_laser_driver --track kinetic --rosdistro kinetic --new-track` on `Wed, 22 Mar 2017 16:07:09 -0000`
+
+The `xv_11_laser_driver` package was released.
+
+Version of package(s) in repository `xv_11_laser_driver`:
+
+- upstream repository: https://github.com/rohbotics/xv_11_laser_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## xv_11_laser_driver (indigo) - 0.2.2-0
 
 The packages in the `xv_11_laser_driver` repository were released into the `indigo` distro by running `/usr/bin/bloom-release xv_11_laser_driver --track indigo --rosdistro indigo --new-track` on `Tue, 16 Sep 2014 00:25:32 -0000`
