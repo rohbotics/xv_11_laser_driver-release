@@ -1,3 +1,26 @@
+## xv_11_laser_driver (noetic) - 0.3.0-1
+
+The packages in the `xv_11_laser_driver` repository were released into the `noetic` distro by running `/usr/bin/bloom-release xv_11_laser_driver --track noetic --rosdistro noetic --new-track` on `Tue, 07 Jul 2020 15:17:37 -0000`
+
+The `xv_11_laser_driver` package was released.
+
+Version of package(s) in repository `xv_11_laser_driver`:
+
+- upstream repository: https://github.com/rohbotics/xv_11_laser_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## xv_11_laser_driver (melodic) - 0.3.0-0
 
 The packages in the `xv_11_laser_driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --track melodic --rosdistro melodic xv_11_laser_driver` on `Sat, 02 Jun 2018 14:57:47 -0000`
